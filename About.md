@@ -4,7 +4,6 @@ title: About
 permalink: /About/
 ---
 
-{% include image.html url="/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
 Participants in the project include:
 
 Principal Investigators:
