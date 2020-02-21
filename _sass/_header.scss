@@ -8,6 +8,16 @@
    position: relative;
  }
 
+.logo{
+	width: 35%;
+	float:left;
+}
+
+.logo img{
+	width:100%;
+}
+
+
 .site-header {
     border-top: 0px solid $grey-color-dark;
     border-bottom: 4px solid $clemson-purple;
@@ -43,14 +53,6 @@
 	position: relative;
 }
 
-.logo{
-	width: 35%;
-	float:left;
-}
-
-.logo img{
-	width:100%;
-}
 
 .site-nav ul li a {
 	color: #fff;
