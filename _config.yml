@@ -1,26 +1,21 @@
-  url: Jingnan92.github.io
-  baseurl: /UTDEventData
-
-
 # Site settings
 title: UTD Event Data
-email: your-email@domain.com
+email: pbrandt@utdallas.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+  Funded by NSF RIDIR SBE-SMA-1539302
+url: Jingnan92.github.io
+baseurl: /UTDEventData
+
+twitter_username: PatrickTBrandt
+github_username:  Patrick T. Brandt
 
 # Build settings
 markdown: kramdown
 
 # Other options
-permalink: blog/:year/:month/:title
-job.title: "Assistant Professor"
-excerpt_separator: "<!--more-->"
+#permalink: blog/:year/:month/:title
+#job.title: "Assistant Professor"
+#excerpt_separator: "<!--more-->"
 
 # SEO stuff
 # google_author: ""
