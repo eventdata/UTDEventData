@@ -19,7 +19,7 @@
 
 
 .site-header {
-    border-top: 0px solid $grey-color-dark;
+    border-top: 4px solid $clemson-orange;
     border-bottom: 4px solid $clemson-purple;
     min-height: 30px;
     background: $clemson-orange;
@@ -29,14 +29,14 @@
 }
 
 .site-title {
-    font-size: 20px;
+    font-size: 30px;
 /* 		margin-top: 15px;
     line-height: 40px; */
-    letter-spacing: -1px;
+    letter-spacing: 0 px;
     margin-bottom: 0;
     float: left;
     font-weight: 500;
-		font-family: 'Titillium Web', sans-serif;
+		font-family: 'Minion Pro', Minion Pro;
     color: #ffffff;
     &,
     &:visited {
@@ -49,7 +49,7 @@
 }
 
 .site-header .wrapper {
-	padding-top: 20px;
+	padding-top: 30px;
 	position: relative;
 }
 
@@ -63,10 +63,10 @@
 	text-align: right;
 	float: right;
 	padding-top: 9px;
-	font-size: 85%;
-	letter-spacing: 1px;
+	font-size: 90%;
+	letter-spacing: 0.5px;
 	line-height: 1em;
-	font-weight: 600;
+	font-weight: 300;
 	margin: 0;
 	padding: 0;
 	list-style-type: none;
