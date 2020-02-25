@@ -183,7 +183,7 @@ h1 /* .post-title */ {
 /*    font-size: 42px; */
     letter-spacing: -1px;
     line-height: 1;
-		font-family: 'Titillium Web', sans-serif;
+		font-family: 'Times New Roman', Times New Roman;
 		color: #000000;
 
     @include media-query($on-laptop) {
@@ -195,7 +195,7 @@ h1 /* .post-title */ {
     margin-bottom: $spacing-unit;
 
     h2 {
-		font-family: 'Titillium Web', sans-serif;
+		font-family: 'Times New Roman', Times New Roman;
 	font-weight: 500;
 /*        font-size: 32px; */
 
@@ -237,7 +237,7 @@ ul.listing {
 ul.listing li.listing-seperator {
 	padding-top: 15px;
 	font-weight: bold;
-	font-family: 'Titillium Web', sans-serif;
+	font-family: 'Times New Roman', Times New Roman;
 	font-size: 1.17em;
 }
 
