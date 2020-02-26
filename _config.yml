@@ -6,8 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
 url: Jingnan92.github.io
 baseurl: /UTDEventData
 
-twitter_username: PTB-OEDA
-github_username:  Patrick T. Brandt
+twitter_username: PatrickTBrandt
+github_username:  PTB-OEDA
 
 # Build settings
 markdown: kramdown
