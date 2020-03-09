@@ -19,6 +19,8 @@ What are the data we are making available via this server?  The following data t
 
 5) Phoenix SWB: accumulated from 1979 to 2015, information about these [Phoenix Event Data are found at the Cline Center](https://clinecenter.illinois.edu/project/machine-generated-event-data-projects/phoenix-data).
 
+6) TERRIER: accumulated from 1979 to 2015, information about these [Temporally Extended, Regular, Reproducible International Event Records are found at OSF Home](https://osf.io/4m2u7/).
+
 To access the real-time and historical event data on our server you need to first get an API key. You can go to this page to [sign up for an API key](http://149.165.156.33:5002/signup). Once you fill out the form, an API key will be sent to your email address.
 
 Once you have the API key you can see how to format queries to the eventdata.utdallas.edu server [here](https://github.com/Sayeedsalam/spec-event-data-server).
