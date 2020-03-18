@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2Ravens
+title: TwoRavens for Event Data
 permalink: /2Ravens/
 ---
 
