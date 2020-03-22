@@ -1,13 +1,10 @@
 # Site settings
 title: UTD Event Data
-email: pbrandt@utdallas.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Funded by NSF RIDIR SBE-SMA-1539302
+ and submit a pull request.  
 url: Jingnan92.github.io
 baseurl: /UTDEventData
 
-twitter_username: PatrickTBrandt
-github_username:  PTB-OEDA
 
 # Build settings
 markdown: kramdown
