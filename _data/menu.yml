@@ -15,8 +15,4 @@
 
 - title: "About"
   href: "/UTDEventData/About/"
-  subcategories:
-    - subtitle: "NSF RIDIR 2015"
-      subhref: "/UTDEventData/About/NSF2015"
-    - subtitle: "NSF RIDIR 2019"
-      subhref: "/UTDEventData/About/NSF2019"
+
