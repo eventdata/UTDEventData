@@ -9,4 +9,4 @@ We are not going to host a local software repository at UT-Dallas; consistent wi
 
 - [OPENEVENTDATA GitHub Site](https://github.com/openeventdata)
 - Our [UTDEventData R package](https://github.com/KateHyoung/UTDEventData) for the real-time data and historical event data (this is a work in progress).
-- [Two Ravens Software for accessing the data Github Site](https://sayeedsalam.github.io/software.html)
+- [Two Ravens](http://2ra.vn/index.html)
