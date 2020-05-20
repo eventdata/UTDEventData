@@ -1,14 +1,8 @@
-Steve's No-Good-Very-Bad Jekyll Theme
+UTD Event Data
 =====================================
 
-This is my custom Jekyll theme, which is basically [Joel Glovier](http://joelglovier.com/)'s `jekyll-new` theme smashed with [Alex King](http://www.alexking.org)'s [Favepersonal](https://crowdfavorite.com/favepersonal/) theme for Wordpress. I used Favepersonal for my Wordpress site before abandoning it. You can see my site at [svmiller.github.io](http://svmiller.github.io).
+Welcome to our data site of our NSF-funded real-time and historical event data API. This is part of our project titled "Modernizing Political Event Data for Big Data Social Science Research”. As an overview, our main goal is to do the following:
 
-Much of what is contained in here is derivative of those two works. That said, do observe the `embedpdf.html` and `image.html` files in the `_includes` directory. `embedpdf.html` uses Google Docs to allow for embedding of PDF files hosted on Dropbox. `image.html` provides fancier images than what is standard for Markdown. An example use of `embedpdf.html` can be observed in the `cv.md` file. An example use of `image.html` can be observed in the `about.md` file.
+"Modern political conflict data are needed to understand the complex spatial and temporal dynamics of international relations and civil conflict. At present, we lack social science datasets with deep temporal and spatial coverages for events that affect regional, national, and international domains. Our proposal is to create event data on political and social events around the globe, with historical coverage, drawn from multiple language sources, and to make it freely available within hours of the events occurring. We will construct such an event dataset, along with the software and methodology needed to analyze the data. The team also will validate the new data and show their value in real time, spatial analysis of the dynamics of civil conflict in Latin America, the Middle East and Africa. We will employ these data to look the relationship between climate change and conflict -- as a test-bed for developing the tools. This will both insure that the system works on real (and difficult) problems, and will appeal immediately to the very substantial research community, both in academia and government.”
 
-I use data-driven navigation, which you can see in the `menu.yml` file in the `_data` directory. There's also a `nav.html` file in the `_includes` directory with modified `header.html`.
-
-Mobile support is clearly functional, though some white-spacing could be improved. Feel free to offer improvements if you'd like.
-
-`css` and `_sass` directories also functional, if a bit cluttered. Do observe new colors I created for `$clemson-orange` and `$clemson-purple` in `css/main.scss`.
-
-Feel free to contact me at svmille@clemson.edu. Send along some cheers too if you find it useful.
+For more information, please visit our [project website](eventdata.utdallas.edu).
