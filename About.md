@@ -3,9 +3,8 @@ layout: page
 title: About
 permalink: /About/
 ---
-This project has received fundings from various sources. We are incredibly grateful for our funders' support over the years, which has made this venture possible. Below we list list all funders and time period...
+This project has received fundings from various sources. We are incredibly grateful for our funders' support over the years, which has made this venture possible. Below we list list all funders and time period.
 
-# Test
 
 ### **National Science Foundation:Modernizing Political Event Data for Big Data Social Science Research (September 2015 -- August 2019)**
 
