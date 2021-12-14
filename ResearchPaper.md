@@ -6,13 +6,11 @@ permalink: /ResearchPaper/
 
 Here are papers and presentations related to this project:
 
-Li, Yi-Fan, Bo Dong, Latifur Khan, Bhavani Thuraisingham, Patrick T. Brandt, Vito J. D'Orazio 2021. "Data-Driven Time Series Forecasting for Social Studies Using Spatio-Temporal Graph Neural Networks" September 2021, ACM (Association for Computing Machinery) doi{10.1145/3462203.3475929}
+Li, Yi-Fan, Bo Dong, Latifur Khan, Bhavani Thuraisingham, Patrick T. Brandt, Vito J. D'Orazio 2021. "Data-Driven Time Series Forecasting for Social Studies Using Spatio-Temporal Graph Neural Networks" September 2021, ACM (Association for Computing Machinery) [doi:10.1145/3462203.3475929]
 
 Erick Skorupa Parolin, Latifur Khan, Vito D'Orazio, Javier Osorio, Patrick Brandt and Jennifer Holmes. 2020. "HANKE: Hierarchical Attention Networks for Knowledge Extraction in Political Science Domain", IEEE International Conference on Data Science and Advanced Analytics (DSAA), Sydney, October 6--9, 2020.
 
-Salam, Sayeed, Lamisah Khan, Amir El-Ghamry, Patrick Brandt, Jennifer Holmes, Vito D'Orazio, Javier Osorio. 2020. "Automatic Event Coding Framework for Spanish Political News Articles". \emph{2020 IEEE 6th International Conference on Big Data Security on Cloud (BigDataSecurity), IEEE International Conference on High Performance and Smart Computing, (HPSC) and IEEE International Conference on Intelligent Data and Security (IDS)}, May 25--27. Baltimore, MD, doi{10.1109/BigDataSecurity-HPSC-IDS49724.2020.00052}
-
-Salam, Sayeed, Patrick T.~Brandt, Vito D'Orazio, Jennifer Holmes, Javier Osorio, and Latifur Khan. 2020. “An Online Structured Political Event Dataset Based on CAMEO Ontology.” SocArXiv. March 20. \doi{doi:10.31235/osf.io/vrt4a}
+Salam, Sayeed, Lamisah Khan, Amir El-Ghamry, Patrick Brandt, Jennifer Holmes, Vito D'Orazio, Javier Osorio. 2020. "Automatic Event Coding Framework for Spanish Political News Articles". 2020 IEEE 6th International Conference on Big Data Security on Cloud (BigDataSecurity), IEEE International Conference on High Performance and Smart Computing, (HPSC) and IEEE International Conference on Intelligent Data and Security (IDS)}, May 25--27. Baltimore, MD, [doi:10.1109/BigDataSecurity-HPSC-IDS49724.2020.00052]
 
 Salam, Sayeed, Patrick Brandt, Vito D'Orazio, Jennifer Holmes, Javier Osorio, and Latifur Khan. 2020. “An Online Structured Political Event Dataset Based on CAMEO Ontology.” SocArXiv. March 20. [doi:10.31235/osf.io/vrt4a](https://osf.io/preprints/socarxiv/vrt4a/)
 
