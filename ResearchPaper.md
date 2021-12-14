@@ -30,7 +30,6 @@ Bagozzi, Benjamin, Patrick T. Brandt, John R. Freeman, Jennifer S. Holmes, Alis
 
 Salam, Sayeed, Patrick T. Brandt, Jennifer S. Holmes, Latifur Khan, 2018. “Distributed Framework for Political Event Coding in Real-Time,” 2018 2nd European Conference on Electrical Engineering and Computer Science (EECS), Bern, Switzerland, 2018, pp. 266-273. [doi:10.1109/EECS.2018.00057.](https://ieeexplore.ieee.org/abstract/document/8910051)
 
-
 Maryam Bahojb Imani, Swarup Chandra, Samuel Ma, Latifur Khan, Bhavani Thuraisingham. 2017. "Focus Location Extraction from Political News Reports with Bias Correction”. IEEE International Conference on Big Data (BIGDATA) [10.1109/BigData.2017.8258141](https://ieeexplore.ieee.org/abstract/document/8258141)
 
 Soliamani, Mohiuddin, Latifur Khan, Sayeed Salaam, Vito D’Orazio, Patrick T. Brandt. 2017. “Automatic Political Actor Recommendation In Real-time”. International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS) 2017. [https://doi.org/10.1007/978-3-319-60240-0_42](https://link.springer.com/chapter/10.1007%2F978-3-319-60240-0_42)
