@@ -6,6 +6,8 @@ permalink: /ResearchPaper/
 
 Here are papers and presentations related to this project:
 
+Patrick T. Brandt, Vito D’Orazio, Latifur Khan, Yi-Fan Li, Javier Osorio & Marcus Sianan (2022) Conflict Forecasting with Event Data and Spatio-Temporal Graph Convolutional Networks, International Interactions, [DOI: 10.1080/03050629.2022.2036987](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2036987)
+
 Li, Yi-Fan, Bo Dong, Latifur Khan, Bhavani Thuraisingham, Patrick T. Brandt, Vito J. D'Orazio 2021. "Data-Driven Time Series Forecasting for Social Studies Using Spatio-Temporal Graph Neural Networks" September 2021, ACM (Association for Computing Machinery) [doi:10.1145/3462203.3475929](https://dl.acm.org/doi/10.1145/3462203.3475929)
 
 Erick Skorupa Parolin, Latifur Khan, Vito D'Orazio, Javier Osorio, Patrick Brandt and Jennifer Holmes. 2020. "HANKE: Hierarchical Attention Networks for Knowledge Extraction in Political Science Domain", IEEE International Conference on Data Science and Advanced Analytics (DSAA), Sydney, October 6--9, 2020.
