@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research Paper
-permalink: /ResearchPaper/
+title: Research Papers
+permalink: /ResearchPapers/
 ---
 
 Here are papers and presentations related to this project:
