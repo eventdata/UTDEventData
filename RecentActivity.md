@@ -9,7 +9,7 @@ Presentations, working papers, and relavant GitHub repositories are listed in th
 
 ## Working Papers
 
-## GitHub Reposirtories
+## GitHub Repositories
 
 *PETRARCH2: A Python Engine for Text Resolution And Related Coding Hierarchy part 2. PETRARCH is a natural language processing tool for machine-coding events data. It is designed to process fully-parsed news summaries in Penn Treebank format, from which ‘whom-did-what-to-whom’ relations are extracted. For more information, please check this on [GitHub](https://petrarch2.readthedocs.io/en/latest/index.html).
 
