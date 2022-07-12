@@ -3,7 +3,7 @@ layout: page
 title: Recent Activity
 permalink: /RecentActivity/
 ---
-Presentations, working papers, and relavant GitHub repositories are listed in this page.
+Presentations, working papers, and relevant GitHub repositories are listed in this page.
 
 ## Presentations
 
