@@ -16,7 +16,7 @@ Erick Skorupa Parolin, Yibo Hu, Latifur Khan, Javier Osorio, Patrick T. Brandt, 
 
 Li, Yi-Fan, Bo Dong, Latifur Khan, Bhavani Thuraisingham, Patrick T. Brandt, Vito J. D'Orazio 2021. "Data-Driven Time Series Forecasting for Social Studies Using Spatio-Temporal Graph Neural Networks" September 2021, ACM (Association for Computing Machinery) [doi:10.1145/3462203.3475929](https://dl.acm.org/doi/10.1145/3462203.3475929)
 
-Erick Skorupa Parolin, Latifur Khan, Vito D'Orazio, Javier Osorio, Patrick Brandt and Jennifer Holmes. 2020. "HANKE: Hierarchical Attention Networks for Knowledge Extraction in Political Science Domain", IEEE International Conference on Data Science and Advanced Analytics (DSAA), Sydney, October 6--9, 2020.
+Erick Skorupa Parolin, Latifur Khan, Vito D'Orazio, Javier Osorio, Patrick Brandt and Jennifer Holmes. 2020. "HANKE: Hierarchical Attention Networks for Knowledge Extraction in Political Science Domain", IEEE International Conference on Data Science and Advanced Analytics (DSAA), Sydney, October 6--9, 2020. [doi:10.1109/DSAA49011.2020.00055](https://ieeexplore.ieee.org/document/9260022)
 
 Salam, Sayeed, Lamisah Khan, Amir El-Ghamry, Patrick Brandt, Jennifer Holmes, Vito D'Orazio, Javier Osorio. 2020. "Automatic Event Coding Framework for Spanish Political News Articles". 2020 IEEE 6th International Conference on Big Data Security on Cloud (BigDataSecurity), IEEE International Conference on High Performance and Smart Computing, (HPSC) and IEEE International Conference on Intelligent Data and Security (IDS)}, May 25--27. Baltimore, MD, [doi:10.1109/BigDataSecurity-HPSC-IDS49724.2020.00052](https://ieeexplore.ieee.org/document/9123024)
 
