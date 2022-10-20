@@ -6,13 +6,13 @@ permalink: /ResearchPapers/
 
 Here are papers and presentations related to this project:
 
-Patrick T. Brandt, Vito D’Orazio, Latifur Khan, Yi-Fan Li, Javier Osorio & Marcus Sianan (2022). Conflict Forecasting with Event Data and Spatio-Temporal Graph Convolutional Networks, International Interactions, [doi: 10.1080/03050629.2022.2036987](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2036987)
+Patrick T. Brandt, Vito D’Orazio, Latifur Khan, Yi-Fan Li, Javier Osorio & Marcus Sianan (2022). Conflict Forecasting with Event Data and Spatio-Temporal Graph Convolutional Networks, International Interactions, [doi:10.1080/03050629.2022.2036987](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2036987)
 
-Vito D’Orazio & Yu Lin (2022) Forecasting conflict in Africa with automated machine learning systems, International Interactions, [doi: 10.1080/03050629.2022.2017290](https://doi.org/10.1080/03050629.2022.2017290)
+Vito D’Orazio & Yu Lin (2022) Forecasting conflict in Africa with automated machine learning systems, International Interactions, [doi:10.1080/03050629.2022.2017290](https://doi.org/10.1080/03050629.2022.2017290)
 
-Brandt, Patrick, Khan, Latifur, D'Orazio, Vito, & Osorio, Javier. (2022). Sustaining Modern Infrastructure For Political And Social Event Data (cssi_upload_1). Zenodo. [doi: 10.5281/zenodo.6870773](https://zenodo.org/badge/DOI/10.5281/zenodo.6870773.svg)
+Brandt, Patrick, Khan, Latifur, D'Orazio, Vito, & Osorio, Javier. (2022). Sustaining Modern Infrastructure For Political And Social Event Data (cssi_upload_1). Zenodo. [doi:10.5281/zenodo.6870773](https://zenodo.org/record/6870773#.Y1Ge_C2B2WY)
 
-Erick Skorupa Parolin, Yibo Hu, Latifur Khan, Javier Osorio, Patrick T. Brandt, Vito D’Orazio, "CoMe-KE: A New Transformers Based Approach for Knowledge Extraction in Conflict and Mediation Domain", 2021 IEEE International Conference on Big Data (Big Data), pp.1449-1459, 2021. [doi: 10.1109/BigDataSecurity-HPSC-IDS49724.2020.00052](https://ieeexplore.ieee.org/document/9123024)
+Erick Skorupa Parolin, Yibo Hu, Latifur Khan, Javier Osorio, Patrick T. Brandt, Vito D’Orazio, "CoMe-KE: A New Transformers Based Approach for Knowledge Extraction in Conflict and Mediation Domain", 2021 IEEE International Conference on Big Data (Big Data), pp.1449-1459, 2021. [doi:10.1109/BigDataSecurity-HPSC-IDS49724.2020.00052](https://ieeexplore.ieee.org/document/9123024)
 
 Li, Yi-Fan, Bo Dong, Latifur Khan, Bhavani Thuraisingham, Patrick T. Brandt, Vito J. D'Orazio 2021. "Data-Driven Time Series Forecasting for Social Studies Using Spatio-Temporal Graph Neural Networks" September 2021, ACM (Association for Computing Machinery) [doi:10.1145/3462203.3475929](https://dl.acm.org/doi/10.1145/3462203.3475929)
 
