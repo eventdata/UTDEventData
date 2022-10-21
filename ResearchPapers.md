@@ -4,7 +4,7 @@ title: Research Papers
 permalink: /ResearchPapers/
 ---
 
-Here are papers and presentations related to this project:
+Papers and presentations related to this project:
 
 Patrick T. Brandt, Vito D’Orazio, Latifur Khan, Yi-Fan Li, Javier Osorio & Marcus Sianan (2022). Conflict Forecasting with Event Data and Spatio-Temporal Graph Convolutional Networks, International Interactions, [doi:10.1080/03050629.2022.2036987](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2036987)
 
