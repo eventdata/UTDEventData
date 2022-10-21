@@ -18,11 +18,13 @@ Vito D’Orazio & Yu Lin (2022) Forecasting conflict in Africa with automated 
 
 Brandt, Patrick, Khan, Latifur, D'Orazio, Vito, & Osorio, Javier. (2022). Sustaining Modern Infrastructure For Political And Social Event Data (cssi_upload_1). Zenodo. [doi:10.5281/zenodo.6870773](https://zenodo.org/record/6870773#.Y1Ge_C2B2WY)
 
-Parolin, Erick, Mohammad Saleh Hosseini, Yibo Hu, Latifur Khan, Patrick Brandt, Javier Osorio, and Vito D’Orazio, 2022. “Multi-CoPED: A Multilingual Multi-Task Approach for Coding Political Event Data on Conflict and Mediation Domain”, In Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society (AIES 22), August 1-3, 2022, Oxford, United Kingdom. ACM, New York, NY, USA. doi:10.1145/3514094.3534178.
+Parolin, Erick, Mohammad Saleh Hosseini, Yibo Hu, Latifur Khan, Patrick Brandt, Javier Osorio, and Vito D’Orazio, 2022. “Multi-CoPED: A Multilingual Multi-Task Approach for Coding Political Event Data on Conflict and Mediation Domain”, In Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society (AIES 22), August 1-3, 2022, Oxford, United Kingdom. ACM, New York, NY, USA. [doi:10.1145/3514094.3534178](https://dl.acm.org/doi/abs/10.1145/3514094.3534178)
 
 Hu, Yibo, Mohammad Saleh Hosseini, Erick Skorupa Parolin, Javier Osorio, Latifur Khan, Patrick T. Brandt, Vito J. DOrazio. 2022. “ConfliBERT: A Pre-trained Language Model for Political Conflict and Violence”. NAACL: 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics. Seattle, Washington. July 10-15, 2022.
 
 Parolin, Erick, Yibo Hu, Latifur Khan, Patrick T. Brandt, Javier Osorio, Vito D’Orazio. 2021. “CoMe-KE: A New Transformers Based Approach for Knowledge Extraction on Conflict and Mediation Domain”, IEEE International Conference on Big Data (IEEE BigData 2021), Orlando, FL, USA, December 2021 [doi:10.1109/BigDataSecurity-HPSC-IDS49724.2020.00052](https://ieeexplore.ieee.org/document/9123024)
+
+Osorio, Javier, Patrick T. Brandt, Vito D’Orazio, Latifur Khan. 2021. “Revamping Event Coding Using CONFLIBERT”. TADA 2021: 11th Annual Conference on New Directions in Analyzing Text as Data, October 28–29, 2021. University of Michigan, Ann Arbor. (Cancelled by COVID-19)
 
 Parolin, Erick, Latifur Khan, Javier Osorio, Patrick T. Brandt, Vito DOrazio and Jennifer Holmes. 2021. “3M-Transformers for Event Coding on Organized Crime Domain”, The 8th IEEE International Conference on Data Science and Advanced Analytics (IEEE DSAA 2021), Porto, PRT, October 2021.
 
