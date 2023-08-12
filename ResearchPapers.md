@@ -101,6 +101,6 @@ Kim, Alisha, Maryam Bahojb Imani, and Patrick T. Brandt. "Geolocation in Politic
 
 Bagozzi, Benjamin E., Patrick T. Brandt, Jennifer S. Holmes, Agustin Palao, John R. Freeman and Carly Potz-Nielson. 2017. "Underreporting in Machine vs. Human Coded Event Data: Applications of Occupancy Models." Conference of the Society for Political Methodology. Madison, WI. July 2017.
 
-Osorio, Javier, Viveca Pavon, Jennifer S. Holmes, Sayeed Salam, Patrick T. Brandt. "Translating CAMEO, Documenting the translation into Spanish". Annual Meeting of the Midwest Political Science Association, April 6{9, 2017, Chicago, IL.
+Osorio, Javier, Viveca Pavon, Jennifer S. Holmes, Sayeed Salam, Patrick T. Brandt. "Translating CAMEO, Documenting the translation into Spanish". Annual Meeting of the Midwest Political Science Association, April 6-9, 2017, Chicago, IL.
 
 Bagozzi, Benjamin E., Patrick T. Brandt, Jennifer S. Holmes, Alisha Kim, John R. Freeman, Agustin Palao, 2016. "External Validation of Event Data", Annual Meeting of the American Political Science Association, Philadelphia, PA, September 1, 2016; and Southern Political Science Association, January 2017.
