@@ -16,13 +16,13 @@ Yang, Wooseong, Sultan Alsarra, Luay Abdeljaber, Niamat Zawad, Zeinab Delaram, J
 
 Alsarra, Sultan, Luay Abdeljaber, Wooseong Yang, Niamat Zawad, Latifur Khan, Patrick T. Brandt, Javier Osorio and Vito D'Orazio. 2023. "ConfliBERT-Arabic: A Pre-trained Arabic Language Model for Politics, Conflicts and Violence." RANLP 2023, Varna, Bulgaria. September 4-6, 2023.
 
-Brandt, Patrick T., Khan, Latifur, D'Orazio, Vito, and Osorio, Javier. 2022. "Sustaining Modern Infrastructure For Political And Social Event Data", CSSI-PI Meeting, Alexandria, VA.[doi:10.5281/zenodo.6870773](https://zenodo.org/record/6870773#.Y1Ge_C2B2WY).
+Brandt, Patrick T., Khan, Latifur, D'Orazio, Vito, and Osorio, Javier. 2022. "Sustaining Modern Infrastructure For Political And Social Event Data", CSSI-PI Meeting, Alexandria, VA. [doi:10.5281/zenodo.6870773](https://zenodo.org/record/6870773#.Y1Ge_C2B2WY).
 
 Parolin, Erick Skorupa, Yibo Hu, Latifur Khan, Patrick T. Brandt, Javier Osorio, and Vito D'Orazio. 2022. "Confli-T5: An AutoPrompt Pipeline for Conflict Related Text Augmentation," 2022 IEEE International Conference on Big Data (Big Data), Osaka, Japan, 1906-1913, [doi:10.1109/BigData55660.2022.10020509](https://ieeexplore.ieee.org/document/10020509).
 
 Parolin, Erick, Mohammad Saleh Hosseini, Yibo Hu, Latifur Khan, Patrick Brandt, Javier Osorio, and Vito D’Orazio, 2022. “Multi-CoPED: A Multilingual Multi-Task Approach for Coding Political Event Data on Conflict and Mediation Domain”, In Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society (AIES 22), August 1-3, 2022, Oxford, United Kingdom. ACM, New York, NY, USA. [doi:10.1145/3514094.3534178](https://dl.acm.org/doi/abs/10.1145/3514094.3534178).
 
-Hu, Yibo, Mohammad Saleh Hosseini, Erick Skorupa Parolin, Javier Osorio, Latifur Khan, Patrick T. Brandt, Vito J. DOrazio. 2022. “ConfliBERT: A Pre-trained Language Model for Political Conflict and Violence.” NAACL: 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics. Seattle, Washington. July 10-15, 2022. <a href="https://github.com/eventdata/ConfliBERT"> and <a href="https://aclanthology.org/2022.naacl-main.400.pdf">.
+Hu, Yibo, Mohammad Saleh Hosseini, Erick Skorupa Parolin, Javier Osorio, Latifur Khan, Patrick T. Brandt, Vito J. DOrazio. 2022. “ConfliBERT: A Pre-trained Language Model for Political Conflict and Violence.” NAACL: 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics. Seattle, Washington. July 10-15, 2022. [https://github.com/eventdata/ConfliBERT](https://github.com/eventdata/ConfliBERT) and [https://aclanthology.org/2022.naacl-main.400.pdf](https://aclanthology.org/2022.naacl-main.400.pdf).
 
 Patrick T. Brandt, Vito D’Orazio, Latifur Khan, Yi-Fan Li, Javier Osorio & Marcus Sianan (2022). Conflict Forecasting with Event Data and Spatio-Temporal Graph Convolutional Networks, International Interactions, [doi:10.1080/03050629.2022.2036987](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2036987).
 
@@ -30,7 +30,7 @@ Vito D’Orazio & Yu Lin (2022) Forecasting conflict in Africa with automated 
 
 Parolin, Erick, Yibo Hu, Latifur Khan, Patrick T. Brandt, Javier Osorio, Vito D’Orazio. 2021. “CoMe-KE: A New Transformers Based Approach for Knowledge Extraction on Conflict and Mediation Domain”, IEEE International Conference on Big Data (IEEE BigData 2021), Orlando, FL, USA, December 2021 [doi:10.1109/BigDataSecurity-HPSC-IDS49724.2020.00052](https://ieeexplore.ieee.org/document/9123024).
 
-Parolin, Erick, Latifur Khan, Javier Osorio, Patrick T. Brandt, Vito DOrazio and Jennifer Holmes. 2021. “3M-Transformers for Event Coding on Organized Crime Domain”, The 8th IEEE International Conference on Data Science and Advanced Analytics (IEEE DSAA 2021), Porto, PRT, October 2021. <a href="https://ieeexplore.ieee.org/document/9564232">.
+Parolin, Erick, Latifur Khan, Javier Osorio, Patrick T. Brandt, Vito DOrazio and Jennifer Holmes. 2021. “3M-Transformers for Event Coding on Organized Crime Domain”, The 8th IEEE International Conference on Data Science and Advanced Analytics (IEEE DSAA 2021), Porto, PRT, October 2021. [https://ieeexplore.ieee.org/document/9564232](https://ieeexplore.ieee.org/document/9564232).
 
 Li, Yi-Fan, Bo Dong, Latifur Khan, Bhavani Thuraisingham, Patrick T. Brandt, Vito J. D'Orazio 2021. "Data-Driven Time Series Forecasting for Social Studies Using Spatio-Temporal Graph Neural Networks." September 2021, ACM (Association for Computing Machinery) [doi:10.1145/3462203.3475929](https://dl.acm.org/doi/10.1145/3462203.3475929).
 
