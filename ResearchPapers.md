@@ -52,7 +52,7 @@ Osorio, Javier, Viveca Pavon, Sayeed Salam, Jennifer S. Holmes, Patrick T. Bran
 
 Skorupa Parolin, Erick, Sayeed Salam, Latifur Khan, Patrick T. Brandt, Jennifer Holmes. 2019. “Automated Verbal-Pattern Extraction from Political News Articles using CAMEO Event Coding Ontology,” 2019 IEEE 5th Intl Conference on Big Data Security on Cloud (BigDataSecurity), IEEE Intl Conference on High Performance and Smart Computing, (HPSC) and IEEE Intl Conference on Intelli- gent Data and Security (IDS), Washington, DC, USA, 2019, pp. 258-266. [doi:10.1109/BigDataSecurity- HPSC-IDS.2019.00056](https://ieeexplore.ieee.org/abstract/document/8819468).
 
-Salam, Sayeed, Patrick T. Brandt, Jennifer S. Holmes, Latifur Khan, 2018. “Distributed Framework for Political Event Coding in Real-Time,” 2018 2nd European Conference on Electrical Engineering and Computer Science (EECS), Bern, Switzerland, 2018, pp. 266-273. [doi:10.1109/EECS.2018.00057.](https://ieeexplore.ieee.org/abstract/document/8910051).
+Salam, Sayeed, Patrick T. Brandt, Jennifer S. Holmes, Latifur Khan, 2018. “Distributed Framework for Political Event Coding in Real-Time,” 2018 2nd European Conference on Electrical Engineering and Computer Science (EECS), Bern, Switzerland, 2018, pp. 266-273. [doi:10.1109/EECS.2018.00057](https://ieeexplore.ieee.org/abstract/document/8910051).
 
 Gunasekaran, Aswin, Maryam Bahjob Imani, Latifur Khan, Christan Grant, Patrick T. Brandt, and Jennifer S. Holmes. 2018. “SPERG: Scalable Political Event Report Geoparsing in Big Data.” 2018 IEEE International Conference on Big Data (BigData 2018). December 10–13, 2018, Seattle, WA, USA. [doi:10.1109/ISI.2018.8587373](https://www.researchgate.net/profile/Maryam_Bahojb_Imani/publication/329956047_SPERG_Scalable_Political_Event_Report_Geoparsing_in_Big_Data/links/5db06fdb299bf111d4c009e5/SPERG-Scalable-Political-Event-Report-Geoparsing-in-Big-Data.pdf).
 
@@ -68,7 +68,7 @@ Bagozzi, Benjamin, Patrick T. Brandt, John R. Freeman, Jennifer S. Holmes, Alis
 
 Pavon Harr, Viveca, Jennifer S. Holmes, Alisha Kim, Patrick T. Brandt, and Maryam Bahjob Imani. 2018. "Efficiency Gains in Focused Geolocation of Spanish Language Political Event Text Analysis." Midwest Political Science Association. Chicago, IL April 2018.
 
-Maryam Bahojb Imani, Swarup Chandra, Samuel Ma, Latifur Khan, Bhavani Thuraisingham. 2017. "Focus Location Extraction from Political News Reports with Bias Correction.” IEEE International Conference on Big Data (BIGDATA) [10.1109/BigData.2017.8258141](https://ieeexplore.ieee.org/abstract/document/8258141).
+Maryam Bahojb Imani, Swarup Chandra, Samuel Ma, Latifur Khan, Bhavani Thuraisingham. 2017. "Focus Location Extraction from Political News Reports with Bias Correction.” IEEE International Conference on Big Data (BIGDATA) [doi:10.1109/BigData.2017.8258141](https://ieeexplore.ieee.org/abstract/document/8258141).
 
 Solaimani, Mohiuddin, Salam Sayeed, Latifur Khan, Patrick T. Brandt and Vito D’Orazio, 2017. “Re-PAIR: Recommend political actors in real-time from news websites,” IEEE International Conference on Big Data (Big Data), Boston, MA, 2017, pp. 1333-1340. 
 
