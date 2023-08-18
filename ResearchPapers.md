@@ -8,9 +8,9 @@ permalink: /ResearchPapers/
 
 Brandt, Patrick T. 2023. "2023-24 VIEWS prediction challenge." October 10-11, 2023. Berlin, Germany (forthcoming).
 
-Yu, Yibo, Erick Skorupa Parolin, Latifur Khan, Patrick T. Brandt, Vito J. D'Orazio and Javier Osorio. 2023. "Utilizing Event Ontology Knowledge for Zero-Shot Relation Classification" (forthcoming).
+Hu, Yibo, Erick Skorupa Parolin, Latifur Khan, Patrick T. Brandt, Vito J. D'Orazio and Javier Osorio. 2023. "Utilizing Event Ontology Knowledge for Zero-Shot Relation Classification" (forthcoming).
 
-Yu, Yibo, Erick Skorupa Parolin, Latifur Khan, Patrick T. Brandt, Vito J. D'Orazio and Javier Osorio. 2023. "Synthesizing Political Zero-Shot Relation Classification via Codebook Knowledge, NLI, and ChatGPT". [doi:arXiv:2308.07876](https://doi.org/10.48550/arXiv.2308.07876).
+Hu, Yibo, Erick Skorupa Parolin, Latifur Khan, Patrick T. Brandt, Vito J. D'Orazio and Javier Osorio. 2023. "Synthesizing Political Zero-Shot Relation Classification via Codebook Knowledge, NLI, and ChatGPT". [doi:arXiv:2308.07876](https://doi.org/10.48550/arXiv.2308.07876).
 
 Yang, Wooseong, Sultan Alsarra, Luay Abdeljaber, Niamat Zawad, Zeinab Delaram, Javier Osorio, Latifur Khan, Patrick T. Brandt, Vito D'Orazio. 2023. "ConfliBERT-Spanish: A Pre-Trained Spanish Language Model for Political Conflict and Violence." MNLP'23 - 5th IEEE Conference on Machine Learning and Natural Language Processing, 2023 7th IEEE Congress on Information Science and Technology (CiSt), Agadir - Essaouira, Morocco.
 
