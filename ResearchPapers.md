@@ -36,7 +36,7 @@ Li, Yi-Fan, Bo Dong, Latifur Khan, Bhavani Thuraisingham, Patrick T. Brandt, Vit
 
 Osorio, Javier, Patrick T. Brandt, Vito D’Orazio, Latifur Khan. 2021. “Revamping Event Coding Using CONFLIBERT.” TADA 2021: 11th Annual Conference on New Directions in Analyzing Text as Data, October 28–29, 2021. University of Michigan, Ann Arbor. (Cancelled by COVID-19)
 
-Salam, Sayeed and Brandt, Patrick T. and D'Orazio, Vito and Holmes, Jennifer and Osorio, Javier and Khan, Latifur. 2020. "An Online Structured Political Event Dataset based on CAMEO Ontology." SocArXiv. [DOI: 10.31219/osf.io/vrt4a](https://ideas.repec.org/p/osf/socarx/vrt4a.html)
+Salam, Sayeed and Brandt, Patrick T. and D'Orazio, Vito and Holmes, Jennifer and Osorio, Javier and Khan, Latifur. 2020. "An Online Structured Political Event Dataset based on CAMEO Ontology." SocArXiv. [doi:10.31219/osf.io/vrt4a](https://ideas.repec.org/p/osf/socarx/vrt4a.html).
 
 Erick Skorupa Parolin, Latifur Khan, Vito D'Orazio, Javier Osorio, Patrick Brandt and Jennifer Holmes. 2020. "HANKE: Hierarchical Attention Networks for Knowledge Extraction in Political Science Domain", IEEE International Conference on Data Science and Advanced Analytics (DSAA), Sydney, October 6--9, 2020. [doi:10.1109/DSAA49011.2020.00055](https://ieeexplore.ieee.org/document/9260022).
 
@@ -64,7 +64,7 @@ Brandt, Patrick T., Vito D'Orazio, and Kate Hyoungah Kim. 2018. "Real Time Event
 
 Brandt, Patrick T., Vito D'Orazio, and Jared Looper. 2018. "Comparing Big Event Datasets." Conference of the Society for Political Methodology. Provo, UT. July 2018.
 
-Bagozzi, Benjamin, Patrick T. Brandt, John R. Freeman, Jennifer S. Holmes, Alisha Kim, Agustin Palao Medizabal, and Carly Potz-Nielsen. 2018. “The Prevalence and Severity of Underreporting Bias in Machine and Human Coded Data.” Political Science Research and Methods. [doi:doi:10.1017/psrm.2018.11](https://www.benjaminbagozzi.com/uploads/1/2/5/7/12579534/rn_reporting_bias.pdf).
+Bagozzi, Benjamin, Patrick T. Brandt, John R. Freeman, Jennifer S. Holmes, Alisha Kim, Agustin Palao Medizabal, and Carly Potz-Nielsen. 2018. “The Prevalence and Severity of Underreporting Bias in Machine and Human Coded Data.” Political Science Research and Methods. [doi:10.1017/psrm.2018.11](https://www.benjaminbagozzi.com/uploads/1/2/5/7/12579534/rn_reporting_bias.pdf).
 
 Pavon Harr, Viveca, Jennifer S. Holmes, Alisha Kim, Patrick T. Brandt, and Maryam Bahjob Imani. 2018. "Efficiency Gains in Focused Geolocation of Spanish Language Political Event Text Analysis." Midwest Political Science Association. Chicago, IL April 2018.
 
