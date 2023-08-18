@@ -64,7 +64,7 @@ Brandt, Patrick T., Vito D'Orazio, and Kate Hyoungah Kim. 2018. "Real Time Event
 
 Brandt, Patrick T., Vito D'Orazio, and Jared Looper. 2018. "Comparing Big Event Datasets." Conference of the Society for Political Methodology. Provo, UT. July 2018.
 
-Bagozzi, Benjamin, Patrick T. Brandt, John R. Freeman, Jennifer S. Holmes, Alisha Kim, Agustin Palao Medizabal, and Carly Potz-Nielsen. 2018. “The Prevalence and Severity of Underreporting Bias in Machine and Human Coded Data.” Political Science Research and Methods. [doi:10.1017/psrm.2018.11](https://www.benjaminbagozzi.com/uploads/1/2/5/7/12579534/rn_reporting_bias.pdf).
+Bagozzi, Benjamin, Patrick T. Brandt, John R. Freeman, Jennifer S. Holmes, Alisha Kim, Agustin Palao Medizabal, and Carly Potz-Nielsen. 2018. “The Prevalence and Severity of Underreporting Bias in Machine and Human Coded Data.” Political Science Research and Methods. [doi:10.1017/psrm.2018.11](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/prevalence-and-severity-of-underreporting-bias-in-machine-and-humancoded-data/E7B648ECA1E52DDAA4BF79CB622F520A).
 
 Pavon Harr, Viveca, Jennifer S. Holmes, Alisha Kim, Patrick T. Brandt, and Maryam Bahjob Imani. 2018. "Efficiency Gains in Focused Geolocation of Spanish Language Political Event Text Analysis." Midwest Political Science Association. Chicago, IL April 2018.
 
