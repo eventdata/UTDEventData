@@ -6,13 +6,13 @@ permalink: /ResearchPapers/
 
 <strong>Here are papers and presentations related to this project:</strong>
 
-Osorio, Javier and Juan V&aacute;squez. “Classifying Organized Criminal Violence in Mexico using ML and LLMs.” RANLP 2023, Varna, Bulgaria. September 4-6, 2023 (forthcoming).
-
 Yang, Wooseong, Sultan Alsarra, Luay Abdeljaber, Niamat Zawad, Zeinab Delaram, Javier Osorio, Latifur Khan, Patrick T. Brandt, Vito D'Orazio. 2023. "ConfliBERT-Spanish: A Pre-Trained Spanish Language Model for Political Conflict and Violence." MNLP'23 - 5th IEEE Conference on Machine Learning and Natural Language Processing, 2023 7th IEEE Congress on Information Science and Technology (CiSt), Agadir - Essaouira, Morocco. December 16-22, 2023 (forthcoming).
 
 Brandt, Patrick T. 2023. "2023-24 VIEWS prediction challenge." Berlin, Germany. October 10-11, 2023 (forthcoming).
 
 Alsarra, Sultan, Luay Abdeljaber, Wooseong Yang, Niamat Zawad, Latifur Khan, Patrick T. Brandt, Javier Osorio and Vito D'Orazio. 2023. "ConfliBERT-Arabic: A Pre-trained Arabic Language Model for Politics, Conflicts and Violence." RANLP 2023, Varna, Bulgaria. September 4-6, 2023 (forthcoming).
+
+Osorio, Javier and Juan V&aacute;squez. “Classifying Organized Criminal Violence in Mexico using ML and LLMs.” RANLP 2023, Varna, Bulgaria. September 4-6, 2023 (forthcoming).
 
 Hu, Yibo, Erick Skorupa Parolin, Latifur Khan, Patrick T. Brandt, Vito J. D'Orazio and Javier Osorio. 2023. "Utilizing Event Ontology Knowledge for Zero-Shot Relation Classification" (forthcoming).
 
