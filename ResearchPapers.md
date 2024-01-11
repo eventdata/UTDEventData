@@ -6,17 +6,38 @@ permalink: /ResearchPapers/
 
 <strong>Here are papers and presentations related to this project:</strong>
 
-Yang, Wooseong, Sultan Alsarra, Luay Abdeljaber, Niamat Zawad, Zeinab Delaram, Javier Osorio, Latifur Khan, Patrick T. Brandt, Vito D'Orazio. 2023. "ConfliBERT-Spanish: A Pre-Trained Spanish Language Model for Political Conflict and Violence." MNLP'23 - 5th IEEE Conference on Machine Learning and Natural Language Processing, 2023 7th IEEE Congress on Information Science and Technology (CiSt), Agadir - Essaouira, Morocco. December 16-22, 2023 (forthcoming).
+Alsarra, Sultan Alsarra, Parker Whitehead, Luay Abdeljaber, Naif Alatrash, Latifur Khan, Patrick
+T. Brandt, Javier Osorio, Vito D’Orazio “Extractive Question Answering for Spanish and Arabic
+Political Text” (in progress).
 
-Brandt, Patrick T. 2023. "2023-24 VIEWS prediction challenge." Berlin, Germany. October 10-11, 2023 (forthcoming).
+Alsarra, Sultan Alsarra, Latifur Khan, Javier Osorio, Patrick T. Brandt, and Vito D’Orazio. 2023.
+“Development Lifecycle for Domain-Specific Large Language Models” (in progress).
 
-Alsarra, Sultan, Luay Abdeljaber, Wooseong Yang, Niamat Zawad, Latifur Khan, Patrick T. Brandt, Javier Osorio and Vito D'Orazio. 2023. "ConfliBERT-Arabic: A Pre-trained Arabic Language Model for Politics, Conflicts and Violence." RANLP 2023, Varna, Bulgaria. September 4-6, 2023 (forthcoming).
+Brandt, Patrick T. 2024. 2024 Patterns of Conflict Emergence (PaCE) Project Workshop. Trinity College,
+Dublin, Ireland, 7-8 March 2024 (forthcoming).
+
+Yang, Wooseong, Sultan Alsarra, Luay Abdeljaber, Niamat Zawad, Zeinab Delaram, Javier Osorio,
+Latifur Khan, Patrick T. Brandt, Vito D’Orazio. 2023. “ConfliBERT-Spanish: A Pre-Trained Spanish
+Language Model for Political Conflict and Violence” MNLP’23 - 5th IEEE Conference on Machine
+Learning and Natural Language Processing, 2023 7th IEEE Congress on Information Science and
+Technology (CiSt), Agadir - Essaouira, Morocco.
+
+Alsarra, Sultan, Luay Abdeljaber, Wooseong Yang, Niamat Zawad, Latifur Khan, Patrick T. Brandt,
+Javier Osorio and Vito D’Orazio. 2023. “ConfliBERT-Arabic: A Pre-trained Arabic Language Model
+for Politics, Conflicts and Violence” Proceedings of the 14th International Conference on Recent
+Advances in Natural Language Processing (RANLP), Varna, Bulgaria. September 4–6, 2023, pages
+98–108.
 
 Osorio, Javier and Juan V&aacute;squez. “Classifying Organized Criminal Violence in Mexico using ML and LLMs.” RANLP 2023, Varna, Bulgaria. September 4-6, 2023 (forthcoming).
 
-Hu, Yibo, Erick Skorupa Parolin, Latifur Khan, Patrick T. Brandt, Vito J. D'Orazio and Javier Osorio. 2023. "Utilizing Event Ontology Knowledge for Zero-Shot Relation Classification" (forthcoming).
+Yu, Yibo, Erick Skorupa Parolin, Latifur Khan, Patrick T. Brandt, Vito J. D’Orazio and Javier Osorio.
+2023. “Leveraging Codebook Knowledge with NLI and ChatGPT for Political Zero-Shot Relation
+Classification”.
 
 Hu, Yibo, Erick Skorupa Parolin, Latifur Khan, Patrick T. Brandt, Vito J. D'Orazio and Javier Osorio. 2023. "Synthesizing Political Zero-Shot Relation Classification via Codebook Knowledge, NLI, and ChatGPT". [doi:arXiv:2308.07876](https://doi.org/10.48550/arXiv.2308.07876).
+
+Brandt, Patrick T. 2023. “Bayesian Density Forecasts”, 2023-24 VIEWS Prediction Challenge. German
+Foreign Ministry. October 10-11, 2023. Berlin, Germany.
 
 Brandt, Patrick T., Khan, Latifur, D'Orazio, Vito, and Osorio, Javier. 2022. "Sustaining Modern Infrastructure For Political And Social Event Data", CSSI-PI Meeting, Alexandria, VA. [doi:10.5281/zenodo.6870773](https://zenodo.org/record/6870773#.Y1Ge_C2B2WY).
 
