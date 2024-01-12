@@ -28,7 +28,7 @@ for Politics, Conflicts and Violence” Proceedings of the 14th International Co
 Advances in Natural Language Processing (RANLP), Varna, Bulgaria. September 4–6, 2023, pages
 98–108. [doi:10.26615/978-954-452-092-2_011](https://acl-bg.org/proceedings/2023/RANLP%202023/pdf/2023.ranlp-1.11.pdf)
 
-Osorio, Javier and Juan V&aacute;squez. “Classifying Organized Criminal Violence in Mexico using ML and LLMs.” RANLP 2023, Varna, Bulgaria. September 4-6, 2023. (https://aclanthology.org/2023.case-1.1/)
+Osorio, Javier and Juan V&aacute;squez. “Classifying Organized Criminal Violence in Mexico using ML and LLMs.” RANLP 2023, Varna, Bulgaria. September 4-6, 2023. [URL](https://aclanthology.org/2023.case-1.1/)
 
 Hu, Yibo, Erick Skorupa Parolin, Latifur Khan, Patrick T. Brandt, Vito J. D'Orazio and Javier Osorio. 2023. "Synthesizing Political Zero-Shot Relation Classification via Codebook Knowledge, NLI, and ChatGPT". [doi:arXiv:2308.07876](https://doi.org/10.48550/arXiv.2308.07876).
 
